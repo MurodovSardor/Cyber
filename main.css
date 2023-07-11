@@ -1,0 +1,671 @@
+.desktop{
+    position: relative;
+    width: 1440px;
+    height: 5439px;
+    border: 1px solid;
+    margin: 0 auto;
+}
+.frame{
+    width: 1440px;
+    height: 892px;
+    border: 1px solid;
+    background: #124;
+}
+nav{
+    list-style: none;
+    position: absolute;
+    top: 40px;
+    left: 70px;
+    width: 1296px;
+    height: 46px;
+    /* border: 1px solid; */
+}
+.frame-1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: absolute;
+    top: 15px;
+    left: 160px;
+    width: 441px;
+    height: 19px;
+    font-size: 15px;
+    color: wheat;
+    /* border: 1px solid; */
+}
+.frame-2{
+    font-size: 18px;
+    position: absolute;
+    top: 0px;
+    color: wheat;
+} 
+.frame-3{
+    display: flex;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 400px;
+    height: 46px;
+    /* border: 1px solid; */
+}
+.frame-3 button{
+    position: absolute;
+    right: 0px;
+    /* font-size: 16px; */
+    height: 46px;
+    color: white;
+    background-color: #F23935;
+    /* border: 1px solid; */
+    border-radius: 4px;
+}
+.frame-3 li{
+    position: absolute;
+    top: 10px;
+    left: 30px;
+    color: wheat;
+}
+.frame-4{
+    position: absolute;
+    top: 120px;
+    left: 70px;
+    width: 1290px;
+    height: 680px;
+    /* border: 1px solid; */
+}
+.frame-4 h1{
+    position: absolute;
+    font-size: 100px;
+    color: wheat;
+}
+.frame-6{
+    position: absolute;
+    top: 270px;
+    left: 30px;
+    color: #FFC947;
+}
+.frame-4 h2{
+    position: absolute;
+    font-size: 100px;
+    top: 100px;
+    left: 120px;
+    color: #FFC947;
+}
+.frame-4 p{
+    position: absolute;
+    top: 330px;
+    left: 0px;
+    color: wheat;
+}
+.frame-4 button{
+    position: absolute;
+    top: 430px;
+    left: 0px;
+    width: 162px;
+    height: 45px;
+    background-color: #F23935;
+    color: wheat;
+}
+.frame-7{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 455px;
+    height: 680px;
+}
+.frame-4 h3{
+    position: absolute;
+    top: 600px;
+}
+.frame-4 h3{
+    position: absolute;
+    top: 520px;
+    left: 0px;
+    width: 156px;
+    height: 19px;
+    color: wheat;
+}
+.frame-8{
+    position: absolute;
+    top: 540px;
+    left: 230px;
+    width: 24px;
+    height: 24px;
+}
+.frame-9{
+    position: absolute;
+    top: 540px;
+    left: 270px;
+    width: 24px;
+    height: 24px;
+}
+.frame-10{
+    position: absolute;
+    top: 910px;
+    left: 180px;
+    width: 1040px;
+    height: 250px;
+    /* border: 1px solid; */
+}
+.frame-10 h2{
+    position: absolute;
+    top: -20px;
+    left: 270px;
+}
+.frame-10 img{
+    position: absolute;
+    top: 40px;
+    width: 1040px;
+    height: 199px;
+}
+
+
+.frame-11{
+    position: absolute;
+    top: 1200px;
+    width: 1439px;
+    height: 576px;
+    /* border: 1px solid; */
+}
+.frame-11 img{
+    position: absolute;
+    left: 140px;
+    width: 455px;
+    height: 535px;
+}
+.frame-11 h1{
+    position: absolute;
+    top: 30px;
+    left: 800px;
+    font-size: 40px;
+    width: 476px;
+    height: 95px;
+}
+.frame-11 p{
+    position: absolute;
+    top: 160px;
+    left: 800px;
+}
+.frame-11 h2{
+    position: absolute;
+    top: 300px;
+    left: 800px;
+    color: var(--red-2, #EA5F5C);
+    font-size: 40px;
+    width: 100px;
+    height: 51px;
+}
+.frame-11 h3{
+    position: absolute;
+    top: 290px;
+    left: 930px;
+    color: var(--red-2, #EA5F5C);
+    font-size: 40px;
+    width: 100px;
+    height: 51px;
+}
+.frame-11 h4{
+    position: absolute;
+    top: 370px;
+    left: 800px;
+    width: 124px;
+    height: 19px;
+}
+.frame-11 h5{
+    position: absolute;
+    top: 365px;
+    left: 950px;
+    width: 124px;
+    height: 19px;
+    font-size: 16px;
+}
+
+
+
+.frame-12{
+    position: absolute;
+    top: 1800px;
+    left: 152px;
+    width: 1135px;
+    height: 628px;
+    /* border: 1px solid; */
+}
+.frame-12 h1{
+    position: absolute;
+    top: -20px;
+    left: 400px;
+}
+.frame-12 p{
+    position: absolute;
+    top: 70px;
+    left: 340px;
+}
+.frame-13{
+    position: absolute;
+    top: 150px;
+    width: 363px;
+    height: 200px;
+    box-shadow: 9px 12px 37px 0px rgba(0, 0, 0, 0.12);
+    /* border: 1px solid; */
+}
+.frame-13 img{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.frame-13 h1{
+    position: absolute;
+    top: 65px;
+    left: 20px;
+}
+.frame-13 p{
+    position: absolute;
+    top: 110px;
+    left: 20px;
+}
+
+
+.frame-14{
+    position: absolute;
+    top: 150px;
+    left: 380px;
+    width: 363px;
+    height: 200px;
+    box-shadow: 9px 12px 37px 0px rgba(0, 0, 0, 0.12);
+    /* border: 1px solid; */
+}
+.frame-14 img{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.frame-14 h1{
+    position: absolute;
+    top: 65px;
+    left: 20px;
+}
+.frame-14 p{
+    position: absolute;
+    top: 110px;
+    left: 20px;
+}
+
+
+.frame-15{
+    position: absolute;
+    top: 150px;
+    right: 0px;
+    width: 363px;
+    height: 200px;
+    box-shadow: 9px 12px 37px 0px rgba(0, 0, 0, 0.12);
+    /* border: 1px solid; */
+}
+.frame-15 img{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.frame-15 h1{
+    position: absolute;
+    top: 65px;
+    left: 20px;
+}
+.frame-15 p{
+    position: absolute;
+    top: 110px;
+    left: 20px;
+}
+
+.frame-16{
+    position: absolute;
+    top: 380px;
+    left: 0px;
+    width: 363px;
+    height: 200px;
+    box-shadow: 9px 12px 37px 0px rgba(0, 0, 0, 0.12);
+    /* border: 1px solid; */
+}
+.frame-16 img{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.frame-16 h1{
+    position: absolute;
+    top: 65px;
+    left: 20px;
+}
+.frame-16 p{
+    position: absolute;
+    top: 110px;
+    left: 20px;
+}
+
+.frame-17{
+    position: absolute;
+    top: 380px;
+    left: 380px;
+    width: 363px;
+    height: 200px;
+    box-shadow: 9px 12px 37px 0px rgba(0, 0, 0, 0.12);
+    /* border: 1px solid; */
+}
+.frame-17 img{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.frame-17 h1{
+    position: absolute;
+    top: 65px;
+    left: 20px;
+}
+.frame-17 p{
+    position: absolute;
+    top: 110px;
+    left: 20px;
+}
+
+.frame-18{
+    position: absolute;
+    top: 380px;
+    right: 0px;
+    width: 363px;
+    height: 200px;
+    box-shadow: 9px 12px 37px 0px rgba(0, 0, 0, 0.12);
+    /* border: 1px solid; */
+}
+.frame-18 img{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.frame-18 h1{
+    position: absolute;
+    top: 65px;
+    left: 20px;
+}
+.frame-18 p{
+    position: absolute;
+    top: 110px;
+    left: 20px;
+}
+
+
+
+
+
+.frame-19{
+    position: absolute;
+    top: 2460px;
+    left: 215px;
+    width: 1012px;
+    height: 500px;
+    /* border: 1px solid; */
+}
+.frame-19 h2{
+    position: absolute;
+    top: 60px;
+}
+.frame-19 p{
+    position: absolute;
+    top: 150px;
+}
+.frame-19 button{
+    position: absolute;
+    top: 300px;
+    width: 162px;
+    height: 45px;
+    color: wheat;
+    border-radius: 4px;background: #F23935;
+}
+.frame-19 img{
+    position: absolute;
+    right: 0px;
+}
+
+
+
+.frame-20{
+    position: absolute;
+    top: 3000px;
+    left: 120px;
+    width: 1219px;
+    height: 581px;
+    border: 1px solid;
+}
+
+
+
+.frame-21{
+    position: absolute;
+    top: 3660px;
+    left: 170px;
+    width: 1102px;
+    height: 486px;
+    /* border: 1px solid; */
+}
+.frame-21 h2{
+    text-align: center;
+    font-size: 30px;
+}
+.frame-21 h3{
+    position: absolute;
+    top: 500px;
+    left: 480px;
+}
+.frame-21 p{
+    position: absolute;
+    top: 80px;
+    left: 330px;
+}
+.frame-22{
+    position: absolute;
+    top: 172px;
+    width: 320px;
+    height: 311px;
+    /* border: 1px solid; */
+}
+.frame-22 h2{
+    position: absolute;
+    top: 150px;
+    font-size: 18px;
+}
+.frame-22 p{
+    position: absolute;
+    top: 220px;
+    left: 0px;
+}
+.frame-22 button{
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    width: 109px;
+    height: 31px;
+    background-color: white;
+}
+.frame-23{
+    position: absolute;
+    top: 172px;
+    left: 390px;
+    width: 320px;
+    height: 311px;
+    /* border: 1px solid; */
+}
+.frame-23 h2{
+    position: absolute;
+    top: 150px;
+    font-size: 18px;
+}
+.frame-23 p{
+    position: absolute;
+    top: 220px;
+    left: 0px;
+}
+.frame-23 button{
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    width: 109px;
+    height: 31px;
+    background-color: white;
+}
+.frame-24{
+    position: absolute;
+    top: 172px;
+    right: 0px;
+    width: 320px;
+    height: 311px;
+    /* border: 1px solid; */
+}
+.frame-24 h2{
+    position: absolute;
+    top: 150px;
+    font-size: 18px;
+}
+.frame-24 p{
+    position: absolute;
+    top: 220px;
+    left: 0px;
+}
+.frame-24 button{
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    width: 109px;
+    height: 31px;
+    background-color: white;
+}
+
+
+
+.frame-25{
+    position: absolute;
+    top: 4300px;
+    left: 120px;
+    width: 1220px;
+    height: 455px;
+    background: #124;
+    /* border: 1px solid; */
+}
+.frame-26{
+    position: absolute;
+    top: 50px;
+    left: 340px;
+    width: 533px;
+    height: 275px;
+    /* border: 1px solid; */
+}
+.frame-26 h2{
+    position: absolute;
+    top: 10px;
+    left: 150px;
+    color: wheat;
+}
+.frame-26 p{
+    position: absolute;
+    top: 50px;
+    left: 40px;
+    color: wheat;
+}
+.frame-27{
+    position: absolute;
+    top: 130px;
+    left: 185px;
+    width: 197px;
+    height: 45px;
+    color: wheat;
+    border-radius: 4px;
+    background: #F23935;
+}
+.frame-28{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.frame-29{
+    position: absolute;
+    top: 180px;
+    left: 185px;
+    width: 197px;
+    height: 45px;
+    font-size: 5px;
+    /* border: 1px solid; */
+}
+.frame-29 img{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.frame-29 h1{
+    position: absolute;
+    top: 5px;
+    left: 60px;
+    font-size: 15px;
+    color: wheat;
+}
+.frame-30{
+    position: absolute;
+    top: 230px;
+    left: 210px;
+    font-size: 10px;
+    color: wheat;
+}
+
+
+
+
+.frame-31{
+    position: absolute;
+    top: 4900px;
+    left: 150px;
+    width: 1068px;
+    height: 189px;
+    list-style: none;
+    /* border: 1px solid; */
+}
+.frame-32{
+    line-height: 40px;
+    position: absolute;
+    width: 100px;
+    height: 189px;
+    /* border: 1px solid; */
+}
+.frame-32 img{
+    position: absolute;
+    top: 10px;
+    left: 100px;
+}
+.frame-33{
+    position: absolute;
+    left: 308px;
+    width: 160px;
+    height: 189px;
+    line-height: 40px;
+    /* border: 1px solid; */
+}
+.frame-34{
+    position: absolute;
+    left: 608px;
+    width: 160px;
+    height: 189px;
+    line-height: 40px;
+    /* border: 1px solid; */
+}
+.frame-35{
+    position: absolute;
+    right: 0px;
+    width: 147px;
+    height: 189px;
+    line-height: 40px;
+    /* border: 1px solid; */
+}
+.frame-36{
+    position: absolute;
+    top: 280px;
+    left: 5px;
+}
+.frame-37{
+    position: absolute;
+    top: 230px;
+    left: 0px;
+}
